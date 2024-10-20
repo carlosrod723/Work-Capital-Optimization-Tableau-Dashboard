@@ -26,6 +26,8 @@ The dataset was sourced from internal databases and hosted on Amazon Web Service
 
 After preprocessing, the AWS RDS PostgreSQL instance was directly integrated with Tableau for advanced data visualization and analysis.
 
+![AWS RDS PostgreSQL Connection](AWS_RDS.png)
+
 ### Data Dictionary:
 #### Payables Data
 | Column Name                        | Description                                      |
