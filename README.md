@@ -95,9 +95,22 @@ This dashboard provides insights into the company's accounts payable, showing ke
 ![Account Payables Dashboard](Account_Payables_Dashboard.png)
 
 **Insights**:
-- The company owes **$226M** in total, with a majority of the unpaid invoices categorized under "Raw Material - Domestic".
-- Late payments account for **18.97%** of total transactions, potentially leading to significant late payment fees.
-- The top supplier, **Smith Ltd**, has the largest outstanding payable of **$1.27M**.
+1. **Payment Efficiency:**
+   - 80.94% of payments are made early, indicating strong cash flow management.
+   - Only 0.10% of payments are on-time, suggesting potential for improvement in timely payments.
+
+2. **Supplier Concentration:**
+   - Top supplier (Smith Ltd) accounts for over 11% of total payables, indicating potential supply chain risk.
+
+3. **Spend Category Analysis:**
+   - Raw Materials dominate spend (94.73%), highlighting the importance of material cost management.
+
+4. **Invoice Management:**
+   - 69.97% of invoices are paid, demonstrating good payables turnover.
+   - 30.03% unpaid invoices require attention to maintain vendor relationships.
+
+5. **Geographic Distribution:**
+   - Majority of payments are domestic, suggesting a localized supply chain.
 
 #### 2. Account Receivables Dashboard:
 This dashboard focuses on the company's receivables, displaying:
@@ -108,9 +121,23 @@ This dashboard focuses on the company's receivables, displaying:
 ![Account Receivables Dashboard](Account_Receivables_Dashboard.png)
 
 **Insights**:
-- The total receivables amount to **$1.56B**, with an average collection time of **18 days**.
-- **WAL-MAR Corp** is the customer with the largest outstanding amount, totaling **$27M**.
-- **33.19%** of receivables are concentrated in the **West** region, showing a potential area for faster collection efforts.
+1. **Payment Behavior:**
+   - 49.57% of payments are received early, indicating good customer relationships.
+   - 33.53% late payments suggest room for improvement in collections.
+
+2. **Customer Concentration:**
+   - Top customer contributes $27M in receivables, highlighting potential customer dependency risk.
+
+3. **Aging Analysis:**
+   - Fluctuating receivable aging over time, with peaks in October and November, indicates seasonal patterns or collection challenges.
+
+4. **Regional Distribution:**
+   - West (33.19%) and Midwest (20.26%) regions dominate receivables, suggesting geographic concentration of customer base.
+
+5. **Efficiency Metrics:**
+   - Average time to receive payment is 18 days, indicating relatively efficient collection processes.
+   - Total open amount of $1,559.5M across 50,000 receivables from 4,197 customers suggests a large-scale operation.
+
 
 ### Conclusion:
 By visualizing accounts receivable and payable data, the business can optimize working capital, reducing late fees and improving cash flow. These actionable insights allow for more informed decision-making around liquidity management, ensuring that the business remains financially stable while improving operational efficiency.
